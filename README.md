@@ -5,8 +5,8 @@ In this repository, I summarize the scripts and tools I used to perform the asse
 #### Index
 
 01. Genome assembly with `SPAdes` and `SOAPdenovo2`.
-02. Assembly quality control by use of `Blobtools`.
-03. Basic genome analysis
+02. Assembly clean-up by use of `Blobtools`.
+03. Basic genome analysis and quality control
 04. Gene annotation *ab initio* via `Augustus`/`BRAKER`
 
 #### References
